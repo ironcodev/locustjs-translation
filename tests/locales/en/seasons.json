@@ -1,10 +1,11 @@
 {
-    "spring": "Spring",
-    "summer": "Summer",
-    "autumn": "Autumn",
-    "winter": "Winter",
-    "season1": "#en{spring}",
-    "season2": "#en{summer}",
-    "season3": "#en{autumn}",
-    "season4": "#en{winter}"
+  "spring": "Spring",
+  "summer": "Summer",
+  "autumn": "Autumn",
+  "winter": "Winter",
+  "springEn": "#en{spring}",
+  "season1": "#{spring}",
+  "season2": "#{summer}",
+  "season3": "#{autumn}",
+  "season4": "#{winter}"
 }
