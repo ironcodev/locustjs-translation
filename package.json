@@ -1,0 +1,41 @@
+{
+  "name": "@locustjs/translation",
+  "version": "1.0.0",
+  "description": "This library provides i18n feature.",
+  "main": "index.cjs.js",
+  "module": "index.esm.js",
+  "scripts": {
+    "build": "babel index.esm.js -o index.cjs.js",
+    "test": "node -r esm ./tests/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironcodev/locustjs-translation.git"
+  },
+  "keywords": [
+    "locustjs",
+    "i18n",
+    "translation"
+  ],
+  "author": "Iron Code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ironcodev/locustjs-translation/issues"
+  },
+  "homepage": "https://github.com/ironcodev/locustjs-translation#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.24.7",
+    "@locustjs/base": "^4.2.0",
+    "@locustjs/exception": "^2.0.2",
+    "@locustjs/extensions-object": "^2.2.1",
+    "@locustjs/extensions-string": "^2.0.6",
+    "@locustjs/logging": "^3.0.1",
+    "@locustjs/services": "^1.1.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.6",
+    "@babel/core": "^7.22.8",
+    "@locustjs/test": "^1.6.2",
+    "esm": "^3.2.25"
+  }
+}

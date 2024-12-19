@@ -1,0 +1,57 @@
+{
+  "en": {
+    "day": {
+      "saturday": "Saturday",
+      "sunday": "Sunday",
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "day0": "#en{sunday}",
+      "day1": "#en{monday}",
+      "day2": "#en{tuesday}",
+      "day3": "#en{wednesday}",
+      "day4": "#en{thursday}",
+      "day5": "#en{friday}",
+      "day6": "#en{saturday}"
+    },
+    "months": {
+      "jan": "January",
+      "feb": "February",
+      "mar": "March",
+      "apr": "April",
+      "may": "May",
+      "jun": "June",
+      "jul": "July",
+      "aug": "August",
+      "sep": "September",
+      "oct": "October",
+      "nov": "November",
+      "dec": "December",
+      "month1": "#en{months.jan}",
+      "month2": "#en{months.feb}",
+      "month3": "#en{months.mar}",
+      "month4": "#en{months.apr}",
+      "month5": "#en{months.may}",
+      "month6": "#en{months.jun}",
+      "month7": "#en{months.jul}",
+      "month8": "#en{months.aug}",
+      "month9": "#en{months.sep}",
+      "month10": "#en{months.oct}",
+      "month11": "#en{months.nov}",
+      "month12": "#en{months.dec}"
+    },
+    "seasons": {
+      "spring": "Spring",
+      "summer": "Summer",
+      "autumn": "Autumn",
+      "winter": "Winter",
+      "springEn": "#en{seasons.spring}",
+      "season1": "#{seasons.spring}",
+      "season2": "#{seasons.summer}",
+      "season3": "#{seasons.autumn}",
+      "season4": "#{seasons.winter}"
+    }
+  }
+}

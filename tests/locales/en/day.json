@@ -1,0 +1,16 @@
+{
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "day0": "#en{sunday}",
+    "day1": "#en{monday}",
+    "day2": "#en{tuesday}",
+    "day3": "#en{wednesday}",
+    "day4": "#en{thursday}",
+    "day5": "#en{friday}",
+    "day6": "#en{saturday}"
+}

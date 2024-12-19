@@ -1,0 +1,16 @@
+{
+    "saturday": "شنبه",
+    "sunday": "یکشنبه",
+    "monday": "دوشنبه",
+    "tuesday": "سه‌شنبه",
+    "wednesday": "چهارشنبه",
+    "thursday": "پنج‌شنبه",
+    "friday": "جمعه",
+    "day0": "#fa{sunday}",
+    "day1": "#fa{monday}",
+    "day2": "#fa{tuesday}",
+    "day3": "#fa{wednesday}",
+    "day4": "#fa{thursday}",
+    "day5": "#fa{friday}",
+    "day6": "#fa{saturday}"
+}
